@@ -1,6 +1,6 @@
 Name: x11-font-dec-misc
 Version: 1.0.3
-Release: %mkrel 3
+Release: %mkrel 4
 Summary: Xorg X11 font dec-misc
 Group: Development/X11
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
